@@ -12,7 +12,7 @@
   "author": "Pravesh Rawat",
   "license": "ISC",
   "devDependencies": {
-    "jest": "^23.6.0",
+    "jest": "^29.3.1",
     "nodemon": "^1.18.9"
   },
   "dependencies": {
